@@ -1,0 +1,19 @@
+.container{
+    background-color: #bbb;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    border: 1px solid black;
+    padding: 20px ;
+    width: 300px;
+}
+label{
+    float: left;
+}
+input{
+    float: right;
+}
